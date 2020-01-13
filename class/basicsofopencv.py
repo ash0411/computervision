@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
-img = cv.imread('"/home/ash/opencv_projects/images/goku.jpeg')
+img = cv.imread('/home/ash/opencv_projects/images/goku.jpeg')
 #img_gray = cv.imread('cat.jpeg',0)
 '''
 #CONVERTING TO GRAY SCALE
